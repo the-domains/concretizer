@@ -1,0 +1,14 @@
+layout_spectrum: 0.11783082969486713
+typography_spectrum: 0.5436809132806957
+color:
+  brandStrength: 0.4143151992466301
+  lightness: 0.09830033918842673
+  saturation: 0.4110542214475572
+  rhythmicContrast: 0.10096263117156923
+  brandColors:
+    - '#2870A2'
+    - '#194B6C'
+    - '#00264D'
+    - '#2E8CB3'
+    - '#35A4BF'
+name: Concretizer
